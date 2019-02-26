@@ -3,7 +3,7 @@
  Install Laravel Breadcrumbs<br>
 Run this at the command line:<br>
 
-composer require kuzma17/breadcrumbs<br>
+composer require kuzma17/breadcrumbs dev-master<br>
 
 add app.php<br>
 providers<br>
