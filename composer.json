@@ -1,0 +1,19 @@
+{
+    "name": "kuzma17/breadcrumbs",
+    "description": "This package breadcrumbs for Laravel projects",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kuzma17",
+            "email": "v.kuzma@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kuzma17\\Breadcrumbs\\": ""
+        }
+    }
+}
