@@ -16,7 +16,7 @@ class Breadcrumbs implements BreadcrumbsInterface
      * @param $title
      * @param $route
      */
-    public function add($title, $route)
+    public function add($title, $route='')
     {
         $item = new BreadscrumbItem();
         $item->add($title, $route);
