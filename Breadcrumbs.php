@@ -28,7 +28,7 @@ class Breadcrumbs implements BreadcrumbsInterface
      */
     public function addPage($page)
     {
-        $this->add($page->title, $this->slug);
+        $this->add($page->title, $page->slug);
     }
 
     /**
